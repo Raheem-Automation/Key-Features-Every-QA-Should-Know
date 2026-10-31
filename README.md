@@ -60,6 +60,3 @@ A good automation framework is not just about writing test cases. It should focu
 🔹 CI/CD Integration
 
 As QA engineers, understanding these concepts helps us build automation frameworks that are easier to maintain and scale.
-
-#Playwright #AutomationTesting #SoftwareTesting #QA #SDET #TestAutomation #QualityAssurance #CICD #WebAutomation
-#SoftwareTesting #QualityAssurance #QA #AutomationTesting #ReleaseManagement #RegressionTesting #SDET #SoftwareQuality
